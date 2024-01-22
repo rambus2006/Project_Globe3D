@@ -1,0 +1,1 @@
+Inspired by [ivyywang](https://bl.ocks.org/ivyywang/7c94cb5a3accd9913263) and [Jason Davies](https://www.jasondavies.com/maps/rotate/). See the [Mercator version](/mbostock/1e10b76becaa4ea4471262bcae619dae).
